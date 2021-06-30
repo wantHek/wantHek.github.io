@@ -4,6 +4,7 @@
     <title>开始博客之旅</title>
     <url>/articles/d2e2eb9a.html</url>
     <content><![CDATA[<p>第一次写博客，也是第一次用hexo，总体来说还是很顺利。<br>希望会成为我的一次美好的回忆和经历。<br>简单整理了下，hexo从搭建开始到使用浏览的一些网站。<br>-<a href="https://hexo.io/zh-cn/">Hexo</a>: 官方网站<br>-<a href="https://www.yunyoujun.cn/">云游君</a>: 比较炫酷的主题示例<br>-<a href="https://www.jianshu.com/p/265b2c653e6f">小胖丫头不改名</a>: 写文章相关的一些知识<br>-<a href="https://blog.qianchia.com/articles/25233fa0.html#">Qian Chia’s Blog</a>: hexo相关的综合知识<br>-<a href="https://blog.csdn.net/linzhiqiang0316/article/details/89338110">林老师带你学编程</a>: hexo搜索功能开启方法<br>-<a href="https://github.com/rozbo/hexo-abbrlink">rozbo</a>: 永久链接优化</p>
+<span id="more"></span>
 ]]></content>
       <categories>
         <category>其他</category>
@@ -21,6 +22,10 @@
 <p>业界现有的商用游戏引擎和免费游戏引擎数不胜数，其中最具代表性的商用游戏引擎有 UnReal、CryENGINE、Havok Physics、Game Bryo、Source Engine 等，但是这些游戏引擎价格昂贵，使得游戏开发成本大大增加。而 Unity 公司提出了“大众游戏开发”（Democratizing Development）的口号，提供了任何人都可以轻松开发的优秀游戏引擎，使开发人员不再顾虑价格。</p>
 <p>Unity 的中文意思为“团结”。Unity 的核心含义是想告诉大家，游戏开发需要在团队合作基础上相互配合完成。</p>
 <p>时至今日，游戏市场上出现了众多种类的游戏，它们是由不同的游戏引擎开发的，Unity 3D 以其强大的跨平台特性与绚丽的 3D 渲染效果而闻名于世，现在很多商业游戏及虚拟现实产品都采用 Unity 3D 引擎来开发。</p>
+<span id="more"></span>
+
+
+
 <h2 id="Unity-3D-的特色"><a href="#Unity-3D-的特色" class="headerlink" title="Unity 3D 的特色"></a>Unity 3D 的特色</h2><p>Unity 3D 游戏开发引擎目前之所以炙手可热，与其完善的技术以及丰富的个性化功能密不可分。</p>
 <p>Unity 3D 游戏开发引擎易于上手，降低了对游戏开发人员的要求。下面对 Unity 3D 游戏开发引擎的特色进行阐述。</p>
 <ol>
@@ -76,8 +81,7 @@
         <category>Unity3D</category>
       </categories>
       <tags>
-        <tag>Unity3D</tag>
-        <tag>第一步</tag>
+        <tag>Unity3D简介</tag>
       </tags>
   </entry>
 </search>
