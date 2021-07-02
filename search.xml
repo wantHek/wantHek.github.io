@@ -16,14 +16,15 @@
   <entry>
     <title>开始Unity3D之旅</title>
     <url>/articles/a2151d5d.html</url>
-    <content><![CDATA[<p>今天开始学习Unity3D开发！！！<br>先简单介绍下Unity3D是什么，有什么功能等。</p>
+    <content><![CDATA[<p>今天开始学习Unity3D开发！！！<br>Unity3D官网：<a href="https://unity.com/cn">https://unity.com/cn</a></p>
+<img src="/articles/a2151d5d/a2151d5d/%E5%9B%BE1.png" class loading="lazy">
+<p>先简单介绍下Unity3D是什么，有什么功能等。</p>
 <p>Unity 3D 也称 Unity，是由 Unity Technologies 公司开发的一个让玩家轻松创建诸如三维视频游戏、建筑可视化、实时三维动画等类型互动内容的多平台的综合型游戏开发工具。</p>
 <p>Unity 3D 可以运行在 Windows 和MacOS X 下，可发布游戏至 Windows、Mac、Wii、iPhone、WebGL（需要 HTML5）、Windows Phone 8 和 Android 平台。也可以利用 Unity Web Player 插件发布网页游戏，支持 Mac 和 Windows 平台的网页浏览，是一个全面整合的专业游戏引擎。</p>
 <p>业界现有的商用游戏引擎和免费游戏引擎数不胜数，其中最具代表性的商用游戏引擎有 UnReal、CryENGINE、Havok Physics、Game Bryo、Source Engine 等，但是这些游戏引擎价格昂贵，使得游戏开发成本大大增加。而 Unity 公司提出了“大众游戏开发”（Democratizing Development）的口号，提供了任何人都可以轻松开发的优秀游戏引擎，使开发人员不再顾虑价格。</p>
 <p>Unity 的中文意思为“团结”。Unity 的核心含义是想告诉大家，游戏开发需要在团队合作基础上相互配合完成。</p>
 <p>时至今日，游戏市场上出现了众多种类的游戏，它们是由不同的游戏引擎开发的，Unity 3D 以其强大的跨平台特性与绚丽的 3D 渲染效果而闻名于世，现在很多商业游戏及虚拟现实产品都采用 Unity 3D 引擎来开发。</p>
 <span id="more"></span>
-
 
 
 <h2 id="Unity-3D-的特色"><a href="#Unity-3D-的特色" class="headerlink" title="Unity 3D 的特色"></a>Unity 3D 的特色</h2><p>Unity 3D 游戏开发引擎目前之所以炙手可热，与其完善的技术以及丰富的个性化功能密不可分。</p>
