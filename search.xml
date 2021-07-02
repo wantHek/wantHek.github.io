@@ -14,10 +14,38 @@
       </tags>
   </entry>
   <entry>
+    <title>Unity3D安装</title>
+    <url>/articles/4f49cb39.html</url>
+    <content><![CDATA[<p>今天我们学习如何安装Unity3D引擎，安装方式有两种。</p>
+<ol>
+<li>安装Unity Hub，这种方式可以安装多个引擎，方便管理。</li>
+<li>直接安装Unity3D引擎。<br>这里只介绍第一种方式。<span id="more"></span></li>
+</ol>
+<h2 id="Uniyt-Hub安装"><a href="#Uniyt-Hub安装" class="headerlink" title="Uniyt Hub安装"></a>Uniyt Hub安装</h2><p>要用Unity Hub需要注册Unity账号。<br>Unity3D官网：<a href="https://unity.com/cn">https://unity.com/cn</a><br>再官网首页点击右上角按钮，点击Create a Unity ID，如图1。</p>
+<img src="/articles/4f49cb39/%E5%9B%BE1.png" class="" title="图1" loading="lazy">
+
+<p>注册完成后就去下载Unity Hub。先回到首页并登录，之后点击开始使用。如图2。</p>
+<img src="/articles/4f49cb39/%E5%9B%BE2.png" class="" title="图2" loading="lazy">
+
+<p>之后点击 Personal Free 下的 Get Started。如图3.</p>
+<img src="/articles/4f49cb39/%E5%9B%BE3.png" class="" title="图3" loading="lazy">
+
+<p>之后点击 First-time users 下的 Start here。会有个弹窗，点击 Agree and download。如图4和5。</p>
+<img src="/articles/4f49cb39/%E5%9B%BE4.png" class="" title="图4" loading="lazy">
+<img src="/articles/4f49cb39/%E5%9B%BE5.png" class="" title="图5" loading="lazy">
+]]></content>
+      <categories>
+        <category>Unity3D</category>
+      </categories>
+      <tags>
+        <tag>Unity3D安装</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>开始Unity3D之旅</title>
     <url>/articles/a2151d5d.html</url>
     <content><![CDATA[<p>今天开始学习Unity3D开发！！！<br>Unity3D官网：<a href="https://unity.com/cn">https://unity.com/cn</a></p>
-<img src="/articles/a2151d5d/a2151d5d/%E5%9B%BE1.png" class loading="lazy">
+<img src="/articles/a2151d5d/%E5%9B%BE1.png" class="" loading="lazy">
 <p>先简单介绍下Unity3D是什么，有什么功能等。</p>
 <p>Unity 3D 也称 Unity，是由 Unity Technologies 公司开发的一个让玩家轻松创建诸如三维视频游戏、建筑可视化、实时三维动画等类型互动内容的多平台的综合型游戏开发工具。</p>
 <p>Unity 3D 可以运行在 Windows 和MacOS X 下，可发布游戏至 Windows、Mac、Wii、iPhone、WebGL（需要 HTML5）、Windows Phone 8 和 Android 平台。也可以利用 Unity Web Player 插件发布网页游戏，支持 Mac 和 Windows 平台的网页浏览，是一个全面整合的专业游戏引擎。</p>
