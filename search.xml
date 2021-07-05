@@ -22,22 +22,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Unity3D 创建新项目，并简单介绍视图界面</title>
-    <url>/articles/2472482718.html</url>
-    <content><![CDATA[<p>今天开始我们正式使用Unity3D引擎，如果没有安装，请看上一个教程<a href="/articles/1330236217.html" title="Unity3D安装">Unity3D安装</a>。</p>
-<p>Unity 3D 创建游戏的理念可以简单地理解为：一款完整的游戏就是一个项目（project），游戏中不同的关卡对应的是项目下的场景（scene）。一款游戏可以包含若干个关卡（场景），因此一个项目下面可以保存多个场景。</p>
-<span id="more"></span>
-<h2 id="unity3d创建新项目"><a class="markdownIt-Anchor" href="#unity3d创建新项目"></a> Unity3D创建新项目</h2>
-]]></content>
-      <categories>
-        <category>Unity3D</category>
-      </categories>
-      <tags>
-        <tag>Unity3D创建新项目</tag>
-        <tag>Unity3D视图界面介绍</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Unity3D安装</title>
     <url>/articles/1330236217.html</url>
     <content><![CDATA[<p>今天我们学习如何安装Unity3D引擎，安装方式有两种。</p>
