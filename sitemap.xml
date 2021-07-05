@@ -2,49 +2,49 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://yjblogs.cn/about/index.html</loc>
+    <loc>https://yjblogs.cn/about/index.html</loc>
     
     <lastmod>2021-07-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/articles/3538086810.html</loc>
+    <loc>https://yjblogs.cn/articles/3538086810.html</loc>
     
     <lastmod>2021-07-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/articles/2719292765.html</loc>
+    <loc>https://yjblogs.cn/articles/2719292765.html</loc>
     
     <lastmod>2021-07-03</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/articles/1330236217.html</loc>
+    <loc>https://yjblogs.cn/articles/1330236217.html</loc>
     
     <lastmod>2021-07-01</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/links/index.html</loc>
+    <loc>https://yjblogs.cn/links/index.html</loc>
     
     <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/tags/index.html</loc>
+    <loc>https://yjblogs.cn/tags/index.html</loc>
     
     <lastmod>2021-06-23</lastmod>
     
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/categories/index.html</loc>
+    <loc>https://yjblogs.cn/categories/index.html</loc>
     
     <lastmod>2021-06-23</lastmod>
     
@@ -52,7 +52,7 @@
   
 
   <url>
-    <loc>http://yjblogs.cn/</loc>
+    <loc>https://yjblogs.cn/</loc>
     <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
@@ -60,21 +60,21 @@
 
   
   <url>
-    <loc>http://yjblogs.cn/tags/first/</loc>
+    <loc>https://yjblogs.cn/tags/first/</loc>
     <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/tags/Unity3D%E5%AE%89%E8%A3%85/</loc>
+    <loc>https://yjblogs.cn/tags/Unity3D%E5%AE%89%E8%A3%85/</loc>
     <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/tags/Unity3D%E7%AE%80%E4%BB%8B/</loc>
+    <loc>https://yjblogs.cn/tags/Unity3D%E7%AE%80%E4%BB%8B/</loc>
     <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
@@ -83,14 +83,14 @@
 
   
   <url>
-    <loc>http://yjblogs.cn/categories/%E5%85%B6%E4%BB%96/</loc>
+    <loc>https://yjblogs.cn/categories/%E5%85%B6%E4%BB%96/</loc>
     <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://yjblogs.cn/categories/Unity3D/</loc>
+    <loc>https://yjblogs.cn/categories/Unity3D/</loc>
     <lastmod>2021-07-05</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
