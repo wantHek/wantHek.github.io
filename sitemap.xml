@@ -9,21 +9,21 @@
   </url>
   
   <url>
-    <loc>https://yjblogs.cn/articles/3538086810</loc>
+    <loc>https://yjblogs.cn/posts/Start-the-blogging-journey</loc>
     
     <lastmod>2021-07-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yjblogs.cn/articles/2719292765</loc>
+    <loc>https://yjblogs.cn/posts/%E5%BC%80%E5%A7%8BUnity3D%E4%B9%8B%E6%97%85</loc>
     
     <lastmod>2021-07-03</lastmod>
     
   </url>
   
   <url>
-    <loc>https://yjblogs.cn/articles/1330236217</loc>
+    <loc>https://yjblogs.cn/posts/Unity3D%E5%AE%89%E8%A3%85</loc>
     
     <lastmod>2021-07-01</lastmod>
     
@@ -53,7 +53,7 @@
 
   <url>
     <loc>https://yjblogs.cn/</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -61,21 +61,21 @@
   
   <url>
     <loc>https://yjblogs.cn/tags/first/</loc>
-    <lastmod>2021-07-07</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://yjblogs.cn/tags/Unity3D%E5%AE%89%E8%A3%85/</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yjblogs.cn/tags/Unity3D%E7%AE%80%E4%BB%8B/</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjblogs.cn/tags/Unity3D%E5%AE%89%E8%A3%85/</loc>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -84,14 +84,14 @@
   
   <url>
     <loc>https://yjblogs.cn/categories/%E5%85%B6%E4%BB%96/</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://yjblogs.cn/categories/Unity3D/</loc>
-    <lastmod>2021-07-07</lastmod>
+    <lastmod>2021-07-08</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
