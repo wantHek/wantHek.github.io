@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://yjblogs.cn/posts/%E5%8D%8E%E4%B8%BA%E9%B8%BF%E8%92%99%E7%B3%BB%E7%BB%9F%E5%AE%89%E8%A3%85%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97</loc>
+    
+    <lastmod>2021-11-24</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://yjblogs.cn/posts/Unity3D%E6%B8%B8%E6%88%8F%E8%B5%84%E6%BA%90-unitypackage%E5%AF%BC%E5%85%A5</loc>
     
     <lastmod>2021-09-07</lastmod>
@@ -255,6 +262,20 @@
     <priority>0.6</priority>
   </url>
   
+  <url>
+    <loc>https://yjblogs.cn/tags/%E9%B8%BF%E8%92%99%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjblogs.cn/tags/%E5%AE%89%E8%A3%85%E8%B0%B7%E6%AD%8C%E5%95%86%E5%BA%97/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
 
   
   <url>
@@ -273,6 +294,13 @@
   
   <url>
     <loc>https://yjblogs.cn/categories/%E6%B8%B8%E8%AE%B0/</loc>
+    <lastmod>2021-12-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://yjblogs.cn/categories/%E9%B8%BF%E8%92%99%E7%B3%BB%E7%BB%9F/</loc>
     <lastmod>2021-12-09</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
